@@ -1,0 +1,25 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               gdelazzari
+tagline:             "another student's blog"
+description:         "Blog of an italian IT student. Software, electronics, microcontrollers, robotics and stuff."
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Giacomo De Lazzari
+#  url:               https://twitter.com/mdo
+  email:             giacky98.mail@gmail.com
+  github:            gdelazzari
+
+# Custom vars
+version:             1.0.0
+
+# Gems
+gems: [jekyll-paginate]
