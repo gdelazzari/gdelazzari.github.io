@@ -23,3 +23,6 @@ version:             1.0.0
 
 # Gems
 gems: [jekyll-paginate]
+
+# Exclusions
+exclude: ['README.md']
