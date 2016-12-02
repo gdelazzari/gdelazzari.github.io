@@ -7,19 +7,16 @@ permalink:           pretty
 title:               gdelazzari
 tagline:             "another student's blog"
 description:         "Blog of an italian IT student. Software, electronics, microcontrollers, robotics and stuff."
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
+url:                 "http://gdelazzari.github.io/"
+baseurl:             ""
 paginate:            5
 
 # About/contact
 author:
   name:              Giacomo De Lazzari
-#  url:               https://twitter.com/mdo
+  url:               http://gdelazzari.github.io/
   email:             giacky98.mail@gmail.com
   github:            gdelazzari
-
-# Custom vars
-version:             1.0.0
 
 # Gems
 gems: [jekyll-paginate]
