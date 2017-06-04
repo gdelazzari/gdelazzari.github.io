@@ -6,8 +6,8 @@ title: About
 Hi everyone, I'm an 18 years old italian IT student and this is my blog.
 
 I like playing with software, electronics, microcontrollers (**a lot!**),
-robotics, neural networks and a lot of other stuff. I also like photography and
-design.
+robotics, neural networks and a lot of other stuff. I also like photography,
+design and 3D modeling.
 
 Here you will find a little diary of my projects, daily adventures and various
 things I have in my mind.
