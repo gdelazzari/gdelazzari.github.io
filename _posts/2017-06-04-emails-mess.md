@@ -16,13 +16,13 @@ updates, forum summaries, and other stuff I don't really care about.
 You may then ask: can't you simply delete all the unread emails? Actually, the
 problem is I was so stupid I used that email account also for more important
 stuff like school lessons material, PayPal (and so payment receipts), eBay and
-Amazon, important work messages, etc... Besides that I discovered there are a
+Amazon, important work messages, etc... Besides that I discovered there is a
 good amount of unread "spam" emails that I would actually want to read before
 deleting them. A few newsletters from Silicon Labs, ST or Sparkfun as well as a
 couple of service updates from Nylas and other companies, for example.
 So I decided that a massive removal of all of them was not feasible.
 
-Well sure, I could go through all of them and manually delete the ones I don't
+Well sure, I could go through all of them and manually delete the ones I didn't
 care about while reading the other ones but... As soon as I started doing that,
 I realized it was really *boring*, because it was a really repetitive task.
 
@@ -309,7 +309,14 @@ the subject. That's pretty amazing, isn't it?
 
 The final touch was to create a main menu (the one in the first picture) and to
 make a little configuration wizard to ask the user (just the first time) its
-login details.
+login details. I also added a feature that labels the emails that the classifier
+is uncertain about with an "*Uncertain*" label, so they end up in a separate folder of your
+mailbox and you can manually check them if you want.
+
+Overall, the result is quite pleasing in my opinion. I'm really satisfied, and it
+was also a lot of fun creating this tool. And, obviously, my inbox is now much
+cleaner: in fact over a total of ~1750 unread emails just ~250 were kept.
 
 I hope this was interesting and you learned something from this (pretty long) post.
-You can checkout the final code on my GitHub, I'll upload it soon.
+You can checkout the final code on GitHub [here](https://github.com/gdelazzari/MailCruncher),
+where you'll also find the instructions on how to run it.
